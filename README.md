@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VadimUrupa1399
+- 👋 Hi
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Machine and Deep Learning
 - 💞️ I’m looking to collaborate on ...
